@@ -33,15 +33,13 @@ Number of petals
 ## Acknowledgments
 Inspired by the Turtle graphics library and the endless possibilities of creative coding.
 
-### How to Use
-1. **Save the README**: Create a file named `README.md` in your project directory and copy the above content into it.
-2. **Adjust the Links**: Replace `https://github.com/yourusername/FlowerArtWithTurtle.git` with the actual URL of your GitHub repository once it's created.
-3. **License**: If you decide to add a license, create a `LICENSE` file in your repository.
+## Output
+![image](https://github.com/user-attachments/assets/dbe2b79d-f8f3-4740-a2ed-24fe3b2abdfd)
 
-This README file provides an overview of your project, its features, and guidance on installation and customization, making it helpful for users and contributors. Let me know if you need any further adjustments!
-
-Contact
+## Contact
 For any questions or issues, please contact allminfatima.2709@gmail.com
 
-Happy cooding 🎉💻
+---
+
+Happy coding 🎉💻
 
